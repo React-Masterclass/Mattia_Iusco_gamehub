@@ -1,4 +1,4 @@
-# Sostituisci con il nome della tua app
+# GameHUB
 
 - [Descrizione](#descrizione)
 - [API](#api)
@@ -51,4 +51,4 @@ https://supabase.com/
 
 ## Deployment
 
-- 
+- https://gamehub-delta.vercel.app/
